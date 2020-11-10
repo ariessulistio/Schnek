@@ -3,7 +3,7 @@
  *
  * Created on: 26 Apr 2012
  * Author: Holger Schmitz
- * Email: holger@notjustphysics.com
+ * Email: ariezsulistio@notjustphysics.com
  *
  * Copyright 2012 Holger Schmitz
  *
